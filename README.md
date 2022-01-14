@@ -8,6 +8,8 @@ P.S. The app is done, I made everything step by step, but unfortunately i cant r
 
 "The 'kotlin-android-extensions' Gradle plugin is deprecated and its no longer supported."
 
-I will try to find a solution or to export it in .apk and just put it in my phone to see what will happens. 
+I've tried a few things but they didnt work.
+
+I will keep trying to find a solution. 
 
 Fingers crossed :) 
